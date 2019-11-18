@@ -10,7 +10,7 @@ Things you may want to cover:
 * Rails 6
 
 * copy file movies.csv, review.csv in root project
-* run rake rake custom:import
+* run rake custom:import
 * request get: root url `http://localhost:3000` disply movies info
 * request get: url `http://localhost:3000/review/index` overview reviwe
 * in the same page `review/index` at bottom search filed search by name actor
