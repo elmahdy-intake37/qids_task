@@ -5,21 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby 2.6.5p114
 
-* System dependencies
+* Rails 6
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+* copy file movies.csv, review.csv in root project
+* run rake rake custom:import
+* request get: root url `http://localhost:3000` disply movies info
+* request get: url `http://localhost:3000/review/index` overview reviwe
+* in the same page `review/index` at bottom search filed search by name actor
 * ...
 # qids_task
